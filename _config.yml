@@ -21,7 +21,8 @@ use_math:
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+remote_theme: owner/name
 plugins:
   - jekyll-feed
   - jekyll-gist
