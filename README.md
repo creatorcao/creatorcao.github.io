@@ -2,6 +2,6 @@
 [visit this demo](https://creatorcao.github.io/) 
 
 1. Create a GitHub account
-2. Make a new repository (yourname.github.io)
-3. Fork this repository and modify
-4. Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+3. **Fork** this repository 
+4. Go to **Settings** and change it to your name (yourname.github.io)
+5. Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
