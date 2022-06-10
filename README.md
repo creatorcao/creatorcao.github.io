@@ -7,6 +7,6 @@
 2. Go to **Settings** --> **Pages** and **Choose a theme**
 ![](images/Settings.png)
 
-3. Click *_config.yml* above to get started and fill in the details. 
+3. Click ***_config.yml*** above to get started and fill in the details. 
 
-4. Then click *index.md* and edit it to start creating your home page.
+4. Then click ***index.md*** and edit it to start creating your home page.
