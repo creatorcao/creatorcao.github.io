@@ -1,7 +1,8 @@
 Hello and welcome to this blog.
 
-![FOX](images/fox.jpeg)
+![little fox](images/fox.jpeg = 250x250)
 
-## Blog Title
+## Title
+
 ...
 
