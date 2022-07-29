@@ -48,3 +48,19 @@ https://mmdetection.readthedocs.io/en/latest/model_zoo.html#comparison-with-dete
 
 
 https://www.libhunt.com/compare-mmdetection-vs-detectron2?ref=compare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
