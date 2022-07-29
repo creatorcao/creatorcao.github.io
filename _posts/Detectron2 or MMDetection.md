@@ -37,3 +37,11 @@ Cons:
 
 It is restricted to supporting object detection models and some instance detection models. 
 It does not support other computer vision problems such as classification.
+
+
+
+
+
+
+
+https://mmdetection.readthedocs.io/en/latest/model_zoo.html#comparison-with-detectron2
