@@ -45,3 +45,6 @@ It does not support other computer vision problems such as classification.
 
 
 https://mmdetection.readthedocs.io/en/latest/model_zoo.html#comparison-with-detectron2
+
+
+https://www.libhunt.com/compare-mmdetection-vs-detectron2?ref=compare
