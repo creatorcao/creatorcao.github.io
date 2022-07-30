@@ -1,2 +1,2 @@
-visit my blog
-[]https://creatorcao.github.io/
+
+[visit my blog](https://creatorcao.github.io/)
