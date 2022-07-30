@@ -24,8 +24,8 @@ title:
 navbar-links:
   Home: ""
   Blog:
-    - Life: "https://github.com/zakun/Markdown"
-    - Machine Learning: "https://jekyllrb.com/docs/"
+    - Life: "https://github.com/creatorcao/_posts"
+    - Machine Learning: " "
   Aboutme: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -142,12 +142,12 @@ excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
+# title-separator: "-"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Asia/Shanghai"
+timezone: "Europe/Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
