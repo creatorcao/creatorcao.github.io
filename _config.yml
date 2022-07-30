@@ -13,7 +13,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: creatorcao
+title: 
 
 # Short description of your site
 description: Hi there.
@@ -88,7 +88,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "creatorcao.github.io"   
+url-pretty: "creatorcao.github.io"   
 
 # --- Web Statistics Section --- #
 
