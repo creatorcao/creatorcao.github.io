@@ -28,11 +28,6 @@
       &nbsp;&bull;&nbsp;
       {{ site.time | date: '%Y' }}
 
-      {% if site.url-pretty %}
-      &nbsp;&bull;&nbsp;
-      <a href="{{ site.url }}">{{ site.url-pretty }}</a>
-      {% endif %}
-
       {% if site.matomo %}
         {% if site.matomo.opt-out %}
           &nbsp;&bull;&nbsp;
