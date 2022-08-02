@@ -19,7 +19,7 @@ After these steps, you can register an account by opening `http://localhost:5000
      ``` 
      Try `brew install --cask docker` 
 &nbsp;<br>
-     
+&nbsp;<br>
 
 2. `docker-compose up`        
     ```
@@ -27,7 +27,7 @@ After these steps, you can register an account by opening `http://localhost:5000
     ```
     Manually start **Application** -> **Docker.app** 
 &nbsp;<br>
-
+&nbsp;<br>
  
 3. `docker-compose up`     
    ```
@@ -35,7 +35,7 @@ After these steps, you can register an account by opening `http://localhost:5000
    ``` 
     In the git repo folder, modify the _docker-compose.yml_ file -> - FILE_WATCHER=  (remove **True**) 
 &nbsp;<br>
-
+&nbsp;<br>
      
 4. `docker-compose up`  
    ```
