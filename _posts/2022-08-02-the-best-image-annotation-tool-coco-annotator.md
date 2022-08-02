@@ -15,7 +15,7 @@ After these steps, you can register an account by opening `http://localhost:5000
 
 1. `brew install docker` or `brew install docker-compose` 
      ```
-     └> Can't find docker.
+     └> Cannot find docker.
      ``` 
      Try `brew install --cask docker` 
 
@@ -39,7 +39,7 @@ After these steps, you can register an account by opening `http://localhost:5000
     
 4. `docker-compose up`  
    ```
-   └> Can't host...  
+   └> Cannot host...  
    ```     
     **System Preferences** -> **Sharing** ->  
     - [x] **AirPlay Receiver** (uncheck this) 
@@ -47,4 +47,3 @@ After these steps, you can register an account by opening `http://localhost:5000
     
 
 
-<!-- Updated on Aug 1, 2022 -->
