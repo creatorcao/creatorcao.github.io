@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: The best image annotation tool —— COCO Annotator
 ---
 ---
