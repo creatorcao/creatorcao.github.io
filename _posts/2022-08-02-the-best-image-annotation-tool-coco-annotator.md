@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: The best image annotation tool —— COCO Annotator
+title: Image annotation tool —— COCO Annotator
 date: '2022-08-01'
 ---
 
@@ -33,7 +33,7 @@ After these steps, you can register an account by opening `http://localhost:5000
    ```
 	└> Worker fail to boot. 
    ``` 
-    In the folder, modify the _docker-compose.yml_ file -> - FILE_WATCHER=  (remove **True**) 
+    In the git repo folder, modify the _docker-compose.yml_ file -> - FILE_WATCHER=  (remove **True**) 
 &nbsp;<br>
 
      
