@@ -13,19 +13,20 @@ If you have the following issues when installing, please use the solutions below
 
 After these steps, you can register an account by opening `http://localhost:5000` in your browser.
 
-
 1. `brew install docker` or `brew install docker-compose` 
      ```
 	└> Cannot find docker.
      ``` 
      Try `brew install --cask docker` 
-
+&nbsp;<br>
+     
 
 2. `docker-compose up`        
     ```
 	└> Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running? 
     ```
     Manually start **Application** -> **Docker.app** 
+&nbsp;<br>
 
  
 3. `docker-compose up`     
@@ -33,6 +34,7 @@ After these steps, you can register an account by opening `http://localhost:5000
 	└> Worker fail to boot. 
    ``` 
     In the folder, modify the _docker-compose.yml_ file -> - FILE_WATCHER=  (remove **True**) 
+&nbsp;<br>
 
      
 4. `docker-compose up`  
