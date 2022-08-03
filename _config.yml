@@ -10,13 +10,11 @@ baseurl: ""
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
-# Of course don't forget to change the username and projectname to YOUR username and project
-
 # Name of website
-title: cao
+title: ""
 
 # Short description of your site
-description: hi
+description: ""
 
 # --- Navigation bar options --- #
 
