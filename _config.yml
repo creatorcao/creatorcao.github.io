@@ -20,7 +20,6 @@ title: ""
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
   Blog:
     - life: "https://creatorcao.github.io/"
     - machine learning: "https://creatorcao.github.io/"
