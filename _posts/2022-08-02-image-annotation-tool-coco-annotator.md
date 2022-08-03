@@ -44,3 +44,9 @@ After these steps, you can register an account by opening `http://localhost:5000
    ```     
     **System Preferences** -> **Sharing** ->  
     - [x] **AirPlay Receiver** (uncheck this)
+
+
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
