@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 published: true
 title: Image annotation tool —— COCO Annotator
 date: '2022-08-01'
