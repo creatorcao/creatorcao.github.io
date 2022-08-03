@@ -5,7 +5,7 @@ title: Image annotation tool —— COCO Annotator
 date: '2022-08-01'
 ---
 
-![COCO Annotator](https://ibb.co/7zwdLLL)
+![COCO Annotator](https://camo.githubusercontent.com/69ce7a40db8bdee3e2a292950b5d84cd3f60cc8ac32bdce3316e40ca4130a71d/68747470733a2f2f692e696d6775722e636f6d2f414137496462512e706e67)
 
 This post is the trouble-shooting for installing [COCO Annotator](https://github.com/jsbroks/coco-annotator) on Macbook M1.
 
