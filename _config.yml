@@ -69,7 +69,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+# rss: false
 # email: "cao_ping@foxmail.com"
 # facebook: 
 # github: creatorcao
@@ -87,7 +87,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "creatorcao.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "creatorcao.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
