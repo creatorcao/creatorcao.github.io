@@ -44,7 +44,7 @@ navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#F5F5F5"
-link-col: "#008AFF"
+link-col: "#404040"
 hover-col: "#F5F5F5"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
@@ -146,7 +146,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Asia/Shanghai"
+timezone: "Europe/Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
