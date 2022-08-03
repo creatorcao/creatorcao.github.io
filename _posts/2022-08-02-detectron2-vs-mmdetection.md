@@ -56,3 +56,10 @@ I choose Detectron2 because of the [First Impression](https://en.wikipedia.org/w
 ### Reference
 1. [https://mmdetection.readthedocs.io/en/latest/model_zoo.html#comparison-with-detectron2](https://mmdetection.readthedocs.io/en/latest/model_zoo.html#comparison-with-detectron2)
 2. [https://www.libhunt.com/compare-mmdetection-vs-detectron2?ref=compare](https://www.libhunt.com/compare-mmdetection-vs-detectron2?ref=compare)
+
+
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+
