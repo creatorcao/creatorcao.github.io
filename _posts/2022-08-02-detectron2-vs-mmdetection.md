@@ -6,6 +6,7 @@ date: '2022-08-02'
 ---
 
 &nbsp;<br>
+
 # [Detectron2](https://github.com/facebookresearch/detectron2)
 
 **Steps** [(demo)](https://github.com/creatorcao/mask-rcnn/blob/main/Detectron2_tutorial.ipynb)
