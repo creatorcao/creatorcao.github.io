@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Detectron2 vs MMDetection
 date: '2022-08-02'
+tags: machine-learning
 ---
 
 &nbsp;<br>
@@ -62,4 +63,3 @@ I choose Detectron2 because of the [First Impression](https://en.wikipedia.org/w
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
-
