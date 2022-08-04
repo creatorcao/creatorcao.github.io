@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Untitled
+title: The Interpretation of Dreams
 ---
 
 
@@ -12,8 +12,3 @@ title: Untitled
 - the material of dreams - memory in dreams
 - the stimuli and sources of dreams 
 > dreams come from indigestion
-
-
-[normal link](https://www.google.com/)
-
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
