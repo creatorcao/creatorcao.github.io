@@ -5,7 +5,7 @@ title: Detectron2 vs MMDetection
 date: '2022-08-02'
 tags: machine-learning
 ---
-
+&nbsp;<br>
 &nbsp;<br>
 # [Detectron2](https://github.com/facebookresearch/detectron2)
 
