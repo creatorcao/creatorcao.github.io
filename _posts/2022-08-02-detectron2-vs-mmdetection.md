@@ -7,12 +7,11 @@ tags: machine-learning
 ---
 
 &nbsp;<br>
-
 # [Detectron2](https://github.com/facebookresearch/detectron2)
 
 **Steps** [(demo)](https://github.com/creatorcao/mask-rcnn/blob/main/Detectron2_tutorial.ipynb)
 - install Detectron2 
-- configs: pretrained models for object detection and different segmentation methods
+- configs: pretrained models 
 - dataset registration: custom dataset 
 - trainer and predictor
 
@@ -48,8 +47,7 @@ Cons:
 
 &nbsp;<br>
 &nbsp;<br>
-I choose Detectron2 because of the [First Impression](https://en.wikipedia.org/wiki/First_impression_(psychology)) effect, I implemted it first and was attracted by the colorful masks, and easy steps. 
-
+I choose Detectron2 because of the [First Impression](https://en.wikipedia.org/wiki/First_impression_(psychology)) effect. I saw one or two posts, implemted it, and was attracted by the colorful masks and easy steps. Actually, the relative fast speed of **MMDetection** does not have large advantage.
 
 &nbsp;<br>
 &nbsp;<br>
