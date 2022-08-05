@@ -27,7 +27,7 @@ Cons:
 
 &nbsp;<br>
 &nbsp;<br>
-# [MMDetection](https://github.com/open-mmlab/mmdetection)
+# <u>[MMDetection](https://github.com/open-mmlab/mmdetection)</u>
 
 **Steps** [(demo)](https://github.com/open-mmlab/mmdetection/blob/master/demo/MMDet_InstanceSeg_Tutorial.ipynb)
 - install MMDetection
