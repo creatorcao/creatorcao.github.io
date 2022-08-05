@@ -7,7 +7,7 @@ tags: machine-learning
 ---
 
 &nbsp;<br>
-# <u>[Detectron2](https://github.com/facebookresearch/detectron2)</u>
+# [Detectron2](https://github.com/facebookresearch/detectron2)
 
 **Steps** [(demo)](https://github.com/creatorcao/mask-rcnn/blob/main/Detectron2_tutorial.ipynb)
 - install Detectron2 
@@ -27,7 +27,7 @@ Cons:
 
 &nbsp;<br>
 &nbsp;<br>
-# <u>[MMDetection](https://github.com/open-mmlab/mmdetection)</u>
+# [MMDetection](https://github.com/open-mmlab/mmdetection)
 
 **Steps** [(demo)](https://github.com/open-mmlab/mmdetection/blob/master/demo/MMDet_InstanceSeg_Tutorial.ipynb)
 - install MMDetection
