@@ -7,7 +7,7 @@ tags: machine-learning
 ---
 
 &nbsp;<br>
-# [Detectron2](https://github.com/facebookresearch/detectron2)
+# <u>[Detectron2](https://github.com/facebookresearch/detectron2)</u>
 
 **Steps** [(demo)](https://github.com/creatorcao/mask-rcnn/blob/main/Detectron2_tutorial.ipynb)
 - install Detectron2 
