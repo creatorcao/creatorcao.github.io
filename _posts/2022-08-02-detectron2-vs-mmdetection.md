@@ -5,10 +5,12 @@ title: Detectron2 vs MMDetection
 date: '2022-08-02'
 tags: machine-learning
 ---
-<div>
-<img src="[https://raw.githubusercontent.com/facebookresearch/detectron2/main/.github/Detectron2-Logo-Horz.svg)](https://github.com/facebookresearch/detectron2)" width="500" height="300"/>
-</div>
-
+<p align="left">
+<a href="https://github.com/facebookresearch/detectron2">
+    <img src="https://raw.githubusercontent.com/facebookresearch/detectron2/main/.github/Detectron2-Logo-Horz.svg" 
+         width="210" height="100" />
+</a>
+</p>
 
 **Steps** [(demo)](https://github.com/creatorcao/mask-rcnn/blob/main/Detectron2_tutorial.ipynb)
 - install Detectron2 
@@ -27,7 +29,13 @@ Cons:
 - difficult to modify the deep learning model
 
 &nbsp;<br>
-[<img src="[https://raw.githubusercontent.com/open-mmlab/mmdetection/master/resources/mmdet-logo.png)">](https://github.com/open-mmlab/mmdetection)
+
+<p align="left">
+<a href="https://github.com/open-mmlab/mmdetection">
+  <img src="https://raw.githubusercontent.com/open-mmlab/mmdetection/master/resources/mmdet-logo.png"
+  width="250" height="80" />
+</a>
+</p>
 
 **Steps** [(demo)](https://github.com/open-mmlab/mmdetection/blob/master/demo/MMDet_InstanceSeg_Tutorial.ipynb)
 - install MMDetection
