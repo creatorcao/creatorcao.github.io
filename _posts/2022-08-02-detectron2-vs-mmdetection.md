@@ -6,7 +6,7 @@ date: '2022-08-02'
 tags: machine-learning
 ---
 
-[](https://raw.githubusercontent.com/facebookresearch/detectron2/main/.github/Detectron2-Logo-Horz.svg)(https://github.com/facebookresearch/detectron2)
+![](https://raw.githubusercontent.com/facebookresearch/detectron2/main/.github/Detectron2-Logo-Horz.svg)(https://github.com/facebookresearch/detectron2)
 
 **Steps** [(demo)](https://github.com/creatorcao/mask-rcnn/blob/main/Detectron2_tutorial.ipynb)
 - install Detectron2 
@@ -26,7 +26,8 @@ Cons:
 
 &nbsp;<br>
 
-[](https://raw.githubusercontent.com/open-mmlab/mmdetection/master/resources/mmdet-logo.png)(https://github.com/open-mmlab/mmdetection)
+![](https://raw.githubusercontent.com/open-mmlab/mmdetection/master/resources/mmdet-logo.png)(https://github.com/open-mmlab/mmdetection)
+
 **Steps** [(demo)](https://github.com/open-mmlab/mmdetection/blob/master/demo/MMDet_InstanceSeg_Tutorial.ipynb)
 - install MMDetection
 - configs: pretrained models 
