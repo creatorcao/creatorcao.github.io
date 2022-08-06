@@ -5,8 +5,10 @@ title: Detectron2 vs MMDetection
 date: '2022-08-02'
 tags: machine-learning
 ---
+<div>
+<img src="[https://raw.githubusercontent.com/facebookresearch/detectron2/main/.github/Detectron2-Logo-Horz.svg)](https://github.com/facebookresearch/detectron2)" width="500" height="300"/>
+</div>
 
-[<img src="[https://raw.githubusercontent.com/facebookresearch/detectron2/main/.github/Detectron2-Logo-Horz.svg">](https://github.com/facebookresearch/detectron2)
 
 **Steps** [(demo)](https://github.com/creatorcao/mask-rcnn/blob/main/Detectron2_tutorial.ipynb)
 - install Detectron2 
