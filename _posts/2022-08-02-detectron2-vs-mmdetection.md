@@ -55,7 +55,7 @@ Cons:
 
 &nbsp;<br>
 &nbsp;<br>
-I choose Detectron2 because of the [First Impression](https://en.wikipedia.org/wiki/First_impression_(psychology)) effect. I saw one or two posts, implemted it, and was attracted by the colorful masks and easy steps. Actually, the relative fast speed of **MMDetection** does not have large advantage.
+I choose Detectron2 because of the **[First Impression](https://en.wikipedia.org/wiki/First_impression_(psychology))** effect. I was attracted by the colorful masks and easy steps. Actually, the relative fast speed of **MMDetection** does not have large advantage.
 
 &nbsp;<br>
 &nbsp;<br>
