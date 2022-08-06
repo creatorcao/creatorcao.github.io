@@ -5,7 +5,6 @@ title: Detectron2 vs MMDetection
 date: '2022-08-02'
 tags: machine-learning
 ---
-[![name](link to image on GH)](link to your URL)
 
 [!Detectron2](https://raw.githubusercontent.com/facebookresearch/detectron2/main/.github/Detectron2-Logo-Horz.svg)(https://github.com/facebookresearch/detectron2)
 
