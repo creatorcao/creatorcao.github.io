@@ -14,7 +14,7 @@ If you have the following issues when installing, please use the solutions below
 
 After these steps, you can register an account by opening `http://localhost:5000` in your browser.
 
-1. `brew install docker` or 'docker -v'
+1. `brew install docker` or `docker -v`
      ```
 	└> Cannot find docker.
      ``` 
