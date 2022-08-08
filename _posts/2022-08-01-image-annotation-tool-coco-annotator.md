@@ -6,7 +6,13 @@ date: '2022-08-01'
 tags: machine-learning
 ---
 
-![COCO Annotator](https://camo.githubusercontent.com/69ce7a40db8bdee3e2a292950b5d84cd3f60cc8ac32bdce3316e40ca4130a71d/68747470733a2f2f692e696d6775722e636f6d2f414137496462512e706e67)
+<p align="center">
+<a href="https://github.com/facebookresearch/detectron2">
+    <img src="https://camo.githubusercontent.com/69ce7a40db8bdee3e2a292950b5d84cd3f60cc8ac32bdce3316e40ca4130a71d/68747470733a2f2f692e696d6775722e636f6d2f414137496462512e706e67" 
+         width="500" height="200" />
+</a>
+</p>
+
 
 This post is the trouble-shooting for installing [COCO Annotator](https://github.com/jsbroks/coco-annotator) on Macbook M1.
 
