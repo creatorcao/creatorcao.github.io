@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Image annotation tool —— COCO Annotator
+title: Image annotation tool —— COCO Annotator vs LabelMe
 date: '2022-08-01'
 tags: machine-learning
 ---
