@@ -3,6 +3,7 @@ layout: post
 published: true
 title: CNN vs transformer
 date: '2022-08-09'
+tags: machine-learning
 ---
 
 
