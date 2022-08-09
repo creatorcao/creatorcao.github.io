@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: CNN vs transformer
+title: Convolutional Neural Network (CNN) vs Vision Transformer (ViT)
 date: '2022-08-09'
 tags: machine-learning
 ---
