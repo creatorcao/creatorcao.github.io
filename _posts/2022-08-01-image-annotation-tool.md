@@ -7,7 +7,7 @@ tags: machine-learning
 subtitle: COCO Annotator vs LabelMe
 ---
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/facebookresearch/detectron2">
     <img src="https://camo.githubusercontent.com/69ce7a40db8bdee3e2a292950b5d84cd3f60cc8ac32bdce3316e40ca4130a71d/68747470733a2f2f692e696d6775722e636f6d2f414137496462512e706e67" 
          width="500" height="200" />
@@ -51,6 +51,14 @@ After these steps, you can register an account by opening `http://localhost:5000
    ```     
     **System Preferences** -> **Sharing** ->  
     - [x] **AirPlay Receiver** (uncheck this)
+
+
+<p align="left">
+<a href="https://github.com/wkentaro/labelme">
+    <img src="https://raw.githubusercontent.com/wkentaro/labelme/main/labelme/icons/icon.png" 
+         width="500" height="300" />
+</a>
+</p>
 
 
 &nbsp;<br>
