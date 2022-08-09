@@ -24,13 +24,14 @@ CNN lacks a global understanding of the images. It only looks for the presence o
 Computationally expensive: each pixel bears varying importance for the target task, which causes redundancy in both computation and representations.
 
 
+
 <p align="left">
     <img src="/images/ML/vit.gif" 
-         width="300px" />
+         width="600px" />
 </p>
 
-# What is Vision Transformer?
-https://github.com/google-research/vision_transformer
+# [Vision Transformer](https://github.com/google-research/vision_transformer)
+
 Transformers have great success with NLP and are now applied to images. CNN uses pixel arrays, whereas Visual Transformer(ViT) divides the image into visual tokens.
 
 **Steps**
