@@ -1,3 +1,9 @@
+---
+layout: post
+published: true
+title: CNN vs transformer
+date: '2022-08-09'
+---
 
 
 # The Pros and Cons of CNNs
@@ -39,4 +45,4 @@ https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial15/
 [Are Pre-trained Convolutions Better than Pre-trained Transformers?](https://arxiv.org/pdf/2105.03322.pdf)
 
 
-
+https://github.com/lucidrains/vit-pytorch
