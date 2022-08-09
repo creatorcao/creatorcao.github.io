@@ -53,10 +53,13 @@ After these steps, you can register an account by opening `http://localhost:5000
     - [x] **AirPlay Receiver** (uncheck this)
 
 
+&nbsp;<br>
+&nbsp;<br>
+
 <p align="left">
 <a href="https://github.com/wkentaro/labelme">
     <img src="https://raw.githubusercontent.com/wkentaro/labelme/main/labelme/icons/icon.png" 
-         width="500" height="300" />
+         width="280" height="120" />
 </a>
 </p>
 
