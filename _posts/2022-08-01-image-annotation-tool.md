@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Image Annotation Tool '
+title: 'Image Annotation Tool'
 date: '2022-08-01'
 tags: machine-learning
 subtitle: COCO Annotator vs LabelMe
@@ -10,16 +10,13 @@ subtitle: COCO Annotator vs LabelMe
 <p align="left">
 <a href="https://github.com/facebookresearch/detectron2">
     <img src="https://camo.githubusercontent.com/69ce7a40db8bdee3e2a292950b5d84cd3f60cc8ac32bdce3316e40ca4130a71d/68747470733a2f2f692e696d6775722e636f6d2f414137496462512e706e67" 
-         width="500" height="200" />
+         width="250" height="100" />
 </a>
 </p>
 
+**[COCO Annotator](https://github.com/jsbroks/coco-annotator)** is in **[COCO](https://cocodataset.org/#home)** format, which can be used directly for training and validation. It is safe, flexible and with multi-colored masks.
 
-This post is the trouble-shooting for installing [COCO Annotator](https://github.com/jsbroks/coco-annotator) on Macbook M1.
-
-If you have the following issues when installing, please use the solutions below. 
-
-After these steps, you can register an account by opening `http://localhost:5000` in your browser.
+Following is the trouble-shooting for installing on **Macbook M1**. After these steps, you can register an account by opening `http://localhost:5000` in your browser.
 
 1. `brew install docker` or `docker -v`
      ```
@@ -59,10 +56,12 @@ After these steps, you can register an account by opening `http://localhost:5000
 <p align="left">
 <a href="https://github.com/wkentaro/labelme">
     <img src="https://raw.githubusercontent.com/wkentaro/labelme/main/labelme/icons/icon.png" 
-         width="280" height="150" />
+         width="180" height="110" />
 </a>
 </p>
 
+**[LabelMe](https://github.com/wkentaro/labelme)** is beginner-friendly and quick for rectangle boundary box drawing. You can download it with _.app_ or in 
+_Python_. Please following the **[steps](https://github.com/creatorcao/mask-rcnn/blob/main/README.md)** after annotation to change the _.json_ format. 
 
 &nbsp;<br>
 &nbsp;<br>
