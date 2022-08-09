@@ -10,13 +10,13 @@ subtitle: COCO Annotator vs LabelMe
 <p align="left">
 <a href="https://github.com/facebookresearch/detectron2">
     <img src="https://camo.githubusercontent.com/69ce7a40db8bdee3e2a292950b5d84cd3f60cc8ac32bdce3316e40ca4130a71d/68747470733a2f2f692e696d6775722e636f6d2f414137496462512e706e67" 
-         width="250" height="100" />
+         width="300" height="130" />
 </a>
 </p>
 
-**[COCO Annotator](https://github.com/jsbroks/coco-annotator)** is in **[COCO](https://cocodataset.org/#home)** format, which can be used directly for training and validation. It is safe, flexible and with multi-colored masks.
+**[COCO Annotator](https://github.com/jsbroks/coco-annotator)** is in **[COCO](https://cocodataset.org/#home)** format, which can be used directly for training and validation for object detection tasks. It is safe, flexible and with multi-colored masks.
 
-Following is the trouble-shooting for installing on **Macbook M1**. After these steps, you can register an account by opening `http://localhost:5000` in your browser.
+Following is the trouble-shooting for installing it on **Macbook M1**. After these steps, you can register an account by opening `http://localhost:5000` in your browser.
 
 1. `brew install docker` or `docker -v`
      ```
@@ -56,7 +56,7 @@ Following is the trouble-shooting for installing on **Macbook M1**. After these 
 <p align="left">
 <a href="https://github.com/wkentaro/labelme">
     <img src="https://raw.githubusercontent.com/wkentaro/labelme/main/labelme/icons/icon.png" 
-         width="180" height="110" />
+         width="200" height="200" />
 </a>
 </p>
 
