@@ -2,6 +2,8 @@
 
 # The Pros and Cons of CNNs
 
+<img src="/images/ML/no_padding_strides.gif" width="200px"></img>
+
 **Pros**:
 CNN has inductive biases like translation invariance and locally restricted receptive field. Translational invariance recognizes an object even when its appearance varies, like changing orientation or zoom in or zoom out.
 
@@ -17,10 +19,11 @@ https://github.com/google-research/vision_transformer
 Transformers have great success with NLP and are now applied to images. CNN uses pixel arrays, whereas Visual Transformer(ViT) divides the image into visual tokens.
 
 
-<img src="./creatorcao.github.io/images/academic/vit.gif" width="500px"></img>
+<img src="/images/ML/vit.gif" width="500px"></img>
 
 
 
+  
 1. Split an image into patches (fixed sizes)
 2. Flatten the image patches
 3. Create lower-dimensional linear embeddings from these flattened image patches
@@ -31,3 +34,9 @@ Transformers have great success with NLP and are now applied to images. CNN uses
 
 
 https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial15/Vision_Transformer.html
+
+
+[Are Pre-trained Convolutions Better than Pre-trained Transformers?](https://arxiv.org/pdf/2105.03322.pdf)
+
+
+
