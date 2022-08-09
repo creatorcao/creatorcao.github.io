@@ -19,12 +19,12 @@ subtitle: Detectron2 vs MMDetection
 - dataset registration: custom dataset 
 - trainer and predictor
 
-Pros:
+Pros
 - modular, flexible, and extensible for efficient training on single or multiple GPUs
 - the successor of Detectron and maskrcnn-benchmark includes state-of-the-art object detection algorithms such as DensePose, panoptic feature pyramid networks, and numerous variants of the pioneering Mask R-CNN
 - developed by Facebook AI Research, using PyTorch
 
-Cons:
+Cons
 - limited state-of-the-art models
 - good at detection and segmentation but not classification
 - difficult to modify the deep learning model
@@ -45,12 +45,12 @@ Cons:
 - modify the configs
 - train_detector and inference_detector
 
-Pros: 
+Pros
 - fast 
 - multiple state-of-the-art object detection models
 - also includes scripts for model conversion, benchmarking, hyper-parameter optimization
 
-Cons:
+Cons
 - restricted to some object detection and instance segmentation models  
 - not support image classification
 
