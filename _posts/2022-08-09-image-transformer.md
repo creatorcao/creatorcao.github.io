@@ -6,8 +6,12 @@ date: '2022-08-09'
 tags: machine-learning
 subtitle: Convolutional Neural Network (CNN) vs Vision Transformer (ViT)
 ---
+<p align="left">
+    <img src="/images/ML/no_padding_strides.gif" 
+         width="200px" />
+</p>
 
-<img src="/images/ML/no_padding_strides.gif" width="200px"></img>
+
 
 # The Pros and Cons of CNNs
 **Pros**:
@@ -19,7 +23,11 @@ It has a domain-specific design and is not scalable for it to be domain agnostic
 CNN lacks a global understanding of the images. It only looks for the presence of the image's features and does not understand the structural dependency between its features.
 Computationally expensive: each pixel bears varying importance for the target task, which causes redundancy in both computation and representations.
 
-<img src="/images/ML/vit.gif" width="500px"></img>
+
+<p align="left">
+    <img src="/images/ML/vit.gif" 
+         width="300px" />
+</p>
 
 # What is Vision Transformer?
 https://github.com/google-research/vision_transformer
