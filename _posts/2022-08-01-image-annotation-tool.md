@@ -59,7 +59,7 @@ After these steps, you can register an account by opening `http://localhost:5000
 <p align="left">
 <a href="https://github.com/wkentaro/labelme">
     <img src="https://raw.githubusercontent.com/wkentaro/labelme/main/labelme/icons/icon.png" 
-         width="280" height="120" />
+         width="280" height="150" />
 </a>
 </p>
 
