@@ -1,9 +1,10 @@
 ---
 layout: post
 published: true
-title: Detectron2 vs MMDetection
+title: Object Detector
 date: '2022-08-02'
 tags: machine-learning
+subtitle: Detectron2 vs MMDetection
 ---
 <p align="left">
 <a href="https://github.com/facebookresearch/detectron2">
