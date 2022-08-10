@@ -44,8 +44,16 @@ Transformers have great success with NLP and are now applied to images. CNN uses
 6. Pre-train the ViT model with image labels, which is then fully supervised on a big dataset
 7. Fine-tune the downstream dataset for image classification
 
+&nbsp;<br>
+&nbsp;<br>
 
 **Reference**
 1. https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial15/Vision_Transformer.html
 2. [Are Pre-trained Convolutions Better than Pre-trained Transformers?](https://arxiv.org/pdf/2105.03322.pdf)
 3. https://github.com/lucidrains/vit-pytorch
+
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+
