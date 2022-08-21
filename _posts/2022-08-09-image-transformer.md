@@ -20,7 +20,7 @@ CNN has inductive biases like translation invariance and locally restricted rece
 **Cons**
 1. Specifically designed for images.
 2. It has a domain-specific design and is not scalable for it to be domain agnostic. CNN uses pixel arrays where each pixel represents varying importance and is domain-specific.
-3. CNN lacks a global understanding of the images. It only looks for the presence of the image's features and does not understand the structural dependency between its features.
+3. It lacks a global understanding of the images. It only looks for the presence of the image's features and does not understand the structural dependency between its features.
 4. Computationally expensive: each pixel bears varying importance for the target task, which causes redundancy in both computation and representations.
 
 &nbsp;<br>
