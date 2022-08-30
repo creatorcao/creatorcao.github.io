@@ -31,8 +31,6 @@ subtitle: Apple M1 vs Google Colab
 
    <img width = "300" src="https://user-images.githubusercontent.com/54368185/187384603-d3539b6a-6a99-42f9-bb67-eed27c9c3e89.png">
 
-
-&nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
 
