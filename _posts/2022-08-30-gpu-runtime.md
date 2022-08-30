@@ -19,7 +19,7 @@ Comparing the runtime of training 3366 images by running the same script.
 2. check gpu: `import torch` `torch.backends.mps.is_available()`
 
 ```
-└> True
+  └> True
 ```
 3. show CPU and GPU activity
 
@@ -40,7 +40,7 @@ Comparing the runtime of training 3366 images by running the same script.
 1. check GPU version: `!nvidia-smi -L`
 
 ```
-└> GPU 0: Tesla T4 (UUID: GPU-ceabb2dd-24b5-a045-1e0d-9d69acd13a7c)
+  └> GPU 0: Tesla T4 (UUID: GPU-ceabb2dd-24b5-a045-1e0d-9d69acd13a7c)
 ```
 
 2. show CPU and GPU activity
