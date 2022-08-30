@@ -8,7 +8,8 @@ subtitle: Apple M1 vs Google Colab
 ---
 
 &nbsp;<br>
-Comparing the training time when running the same script.
+&nbsp;<br>
+Comparing the runtime of training 3366 images by running the same script.
 &nbsp;<br>
 
 **PyTorch Metal Performance Shaders (MPS)**
