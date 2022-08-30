@@ -6,15 +6,15 @@ date: '2022-08-30'
 tag: machine-learning
 subtitle: Apple M1 vs Google Colab
 ---
-
+&nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
 Comparing the runtime of training 3366 images by running the same script.
-&nbsp;<br>
+
 
 **PyTorch Metal Performance Shaders (MPS)**
 
-1. [setup GPU-acceleration to PyTorch on Apple M1](https://towardsdatascience.com/gpu-acceleration-comes-to-pytorch-on-m1-macs-195c399efcc1)
+1. setup GPU-acceleration 
 
 2. check gpu: `import torch` `torch.backends.mps.is_available()`
 
@@ -27,7 +27,7 @@ Comparing the runtime of training 3366 images by running the same script.
 
 4. runtime 
 
-<img width = "500" src="https://user-images.githubusercontent.com/54368185/187384603-d3539b6a-6a99-42f9-bb67-eed27c9c3e89.png">
+<img width = "300" src="https://user-images.githubusercontent.com/54368185/187384603-d3539b6a-6a99-42f9-bb67-eed27c9c3e89.png">
 
 
 &nbsp;<br>
@@ -49,13 +49,14 @@ Comparing the runtime of training 3366 images by running the same script.
 
 3. runtime 
 
-<img width = "500" src="https://user-images.githubusercontent.com/54368185/187384580-b0cbea36-ee2b-4f4a-bb6e-e0f16a26c7b3.png">
+<img width = "300" src="https://user-images.githubusercontent.com/54368185/187384580-b0cbea36-ee2b-4f4a-bb6e-e0f16a26c7b3.png">
 
 &nbsp;<br>
 &nbsp;<br>
 
 **Read more**
 1. [Apple's M1 Pro Chip: Everything You Need to Know](https://www.macrumors.com/guide/m1-pro/#:~:text=as%20the%20%E2%80%8CM1%E2%80%8C.-,CPU,and%20two%20high%20efficiency%20cores.)
+2. [Setup GPU-acceleration to PyTorch on Apple M1](https://towardsdatascience.com/gpu-acceleration-comes-to-pytorch-on-m1-macs-195c399efcc1)
 
 &nbsp;<br>
 &nbsp;<br>
