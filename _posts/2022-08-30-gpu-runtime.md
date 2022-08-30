@@ -58,7 +58,7 @@ subtitle: Apple M1 vs Google Colab
 
 &nbsp;<br>
 &nbsp;<br>
-The results shown above is by running the same script with 3366 images.
+The results shown above were by running the same script with 3366 images.
 &nbsp;<br>
 &nbsp;<br>
 
