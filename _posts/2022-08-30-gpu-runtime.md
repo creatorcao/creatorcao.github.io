@@ -7,16 +7,21 @@ tag: machine-learning
 subtitle: Apple M1 vs Google Colab
 ---
 
-&nbsp;<br>
-&nbsp;<br>
+<p align="left">
+<a href="https://github.com/facebookresearch/detectron2">
+    <img src="https://user-images.githubusercontent.com/54368185/187424756-74fb3e4f-49d3-4398-ba21-938c2489a3e8.jpg"
+         alt="Apple M1 Pro"
+         width="80" height="80" />
+</a>
+</p>
 
-**PyTorch Metal Performance Shaders (MPS)**
+**Apple M1 Pro**
 
-1. setup GPU-acceleration 
+1. setup GPU-acceleration to PyTorch
 
 2. check gpu: `import torch` `torch.backends.mps.is_available()`
    ```
-      └> True
+   └> True
    ```
 3. show CPU and GPU activity
 
@@ -31,17 +36,23 @@ subtitle: Apple M1 vs Google Colab
 &nbsp;<br>
 &nbsp;<br>
 
+<p align="left">
+<a href="https://github.com/facebookresearch/detectron2">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" 
+         width="80" height="80" />
+</a>
+</p>
 
 **Google Colab**
 
 1. check GPU version: `!nvidia-smi -L`
    ```
-     └> GPU 0: Tesla T4 (UUID: GPU-ceabb2dd-24b5-a045-1e0d-9d69acd13a7c)
+   └> GPU 0: Tesla T4 (UUID: GPU-ceabb2dd-24b5-a045-1e0d-9d69acd13a7c)
    ```
 
 2. show CPU and GPU activity
 
-   <img width="500" alt="Screen Shot 2022-08-30 at 09 54 12" src="https://user-images.githubusercontent.com/54368185/187384599-96c2ce19-57f1-4aee-ab1a-12b0ba97b0d6.png">
+   <img width="500" src="https://user-images.githubusercontent.com/54368185/187384599-96c2ce19-57f1-4aee-ab1a-12b0ba97b0d6.png">
 
 3. runtime 
 
