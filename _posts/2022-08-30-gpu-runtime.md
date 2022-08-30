@@ -1,5 +1,13 @@
+---
+layout: post
+published: true
+title: 'Training time '
+date: '2022-08-30'
+tag: machine-learning
+subtitle: running the same script in Apple M1 and Google Colab
+---
 
-title: running the same script in Apple M1 and Google Colab
+title: 
 
 **Torch Metal Performance Shaders (MPS)**
 
