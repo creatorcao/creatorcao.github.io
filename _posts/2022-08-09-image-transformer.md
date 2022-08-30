@@ -7,10 +7,9 @@ tags: machine-learning
 subtitle: Convolutional Neural Network (CNN) vs Vision Transformer (ViT)
 ---
 <p align="left">
-    <img src="/images/ML/image-transformer/no_padding_strides.gif" 
+    <img src="https://user-images.githubusercontent.com/54368185/187426750-52062c2b-b400-4b6b-8cb1-0925d074ffed.gif" 
          width="300px" />
 </p>
-
 
 # CNN
 **Pros**
@@ -26,7 +25,7 @@ CNN has inductive biases like translation invariance and locally restricted rece
 &nbsp;<br>
 
 <p align="left">
-    <img src="/images/ML/image-transformer/vit.gif" 
+    <img src="https://user-images.githubusercontent.com/54368185/187426824-ebd56540-7f67-44bc-b207-aedd6544a521.gif" 
          width="600px" />
 </p>
 
