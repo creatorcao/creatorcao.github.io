@@ -19,7 +19,7 @@ subtitle: Apple M1 vs Google Colab
 
 1. setup GPU-acceleration to PyTorch
 
-2. check gpu: `import torch` `torch.backends.mps.is_available()`
+2. check gpu: `import torch` `torch.has_mps`
    ```
    └> True
    ```
