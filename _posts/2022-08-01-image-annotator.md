@@ -19,17 +19,17 @@ subtitle: COCO Annotator vs LabelMe
 Following is the trouble-shooting for installing it on **Macbook M1**. After these steps, you can register an account by opening `http://localhost:5000` in your browser.
 
 1. `brew install docker` or `docker -v`
-     ```
+   ```
 	└> Cannot find docker.
-     ``` 
+   ``` 
      Try `brew install --cask docker` 
 &nbsp;<br>
 &nbsp;<br>
 
 2. `docker-compose up`        
-    ```
+   ```
 	└> Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running? 
-    ```
+   ```
     Manually start **Application** -> **Docker.app** 
 &nbsp;<br>
 &nbsp;<br>
@@ -44,7 +44,7 @@ Following is the trouble-shooting for installing it on **Macbook M1**. After the
      
 4. `docker-compose up`  
    ```
-   └> Cannot host...  
+	└> Cannot host...  
    ```     
     **System Preferences** -> **Sharing** ->  
     - [x] **AirPlay Receiver** (uncheck this)
