@@ -50,7 +50,7 @@ subtitle: Apple M1 vs Google Colab
 
 &nbsp;<br>
 &nbsp;<br>
-The results shown is comparing the runtime of training 3366 images by running the same script.
+The results shown above is by running the same script with 3366 images.
 &nbsp;<br>
 &nbsp;<br>
 
