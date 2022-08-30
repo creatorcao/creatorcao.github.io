@@ -6,10 +6,9 @@ date: '2022-08-30'
 tag: machine-learning
 subtitle: Apple M1 vs Google Colab
 ---
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
 
+&nbsp;<br>
+&nbsp;<br>
 
 **PyTorch Metal Performance Shaders (MPS)**
 
