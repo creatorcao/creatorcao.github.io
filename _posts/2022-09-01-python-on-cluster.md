@@ -4,7 +4,7 @@ published: true
 title: Run Python on computer cluster
 date: '2022-09-01'
 tags: machine-learning
-subtitle: Deep learning setup
+subtitle: Deep learning setup on high performance computing (HPC) systems
 ---
 
 **1. access cluster**
