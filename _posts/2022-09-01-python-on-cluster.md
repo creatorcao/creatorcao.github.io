@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: python-on-cluster
+title: Run Python on computer cluster
 date: '2022-09-01'
 tags: machine-learning
 subtitle: Deep learning setup on computer cluster
@@ -11,11 +11,11 @@ subtitle: Deep learning setup on computer cluster
 
 `ssh yourusername@hostname`, then input your password 
 
-**2. check cpu and gpu **
+**2. check cpu and gpu**
 
 `scontrol show nodes`
 
-**3. show available software **
+**3. show available software**
 
 `module avail`
 
