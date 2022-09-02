@@ -4,7 +4,7 @@ published: true
 title: Run Python on computer cluster
 date: '2022-09-01'
 tags: machine-learning
-subtitle: Deep learning setup on computer cluster
+subtitle: Deep learning setup
 ---
 
 **1. access cluster**
@@ -78,4 +78,3 @@ then press **ESC**, type `:exit` and press **ENTER**
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
-
