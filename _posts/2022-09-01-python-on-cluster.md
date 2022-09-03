@@ -7,19 +7,19 @@ tags: machine-learning
 subtitle: Deep learning setup on high performance computing (HPC) systems
 ---
 
-**1. access cluster**
+**1. Access cluster**
 
 `ssh yourusername@hostname`, then input your password 
 
-**2. check cpu and gpu**
+**2. Check cpu and gpu**
 
 `scontrol show nodes`
 
-**3. show available software**
+**3. Show available software**
 
 `module avail`
 
-**4. setup your custom environment**
+**4. Setup your custom environment**
 
 `module load anaconda` # check the absolute path and available conda
 
@@ -27,7 +27,7 @@ subtitle: Deep learning setup on high performance computing (HPC) systems
 
 `pip install matplotlib` # install packages
 
-**5. transfer data**
+**5. Transfer data**
 
 Terminal: `sftp yourusername@hostname`
 
@@ -39,7 +39,7 @@ Transfer from local to remote folder: `put file.py`
 
 Transfer from remote folder to local: `get file.py`
 
-**6. creating a job**
+**6. Creating a job**
 
 `touch submit.sh` # create a command file
 
@@ -47,20 +47,15 @@ Transfer from remote folder to local: `get file.py`
 
 ```
 #!/bin/bash
-
 #SBATCH —job-name=test
- 
 module load anaconda
-
 source activate cp
-
 python run.py
 ```
 
 then press **ESC**, type `:exit` and press **ENTER**
 
 `sbatch submit.sh` # submit this command to cluster
-
 
 
 &nbsp;<br>
@@ -74,6 +69,15 @@ then press **ESC**, type `:exit` and press **ENTER**
 
 3. On local browser open: `http://localhost:9999`
 
+
+&nbsp;<br>
+&nbsp;<br>
+
+**Read More**
+
+[Slurm CheatSheet](https://slurm.schedmd.com/pdfs/summary.pdf)
+
+[Use SFTP transfer files with a remote server](https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server)
 
 &nbsp;<br>
 &nbsp;<br>
