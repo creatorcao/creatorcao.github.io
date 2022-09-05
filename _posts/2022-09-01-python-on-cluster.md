@@ -21,6 +21,8 @@ subtitle: Deep learning setup on high performance computing (HPC) systems
 
 **4. Setup your custom environment**
 
+`module load cuda` # check specific version use `nvcc --version`
+
 `module load anaconda` # check the absolute path and available conda
 
 `conda create -n cp` # create a new environment called cp
