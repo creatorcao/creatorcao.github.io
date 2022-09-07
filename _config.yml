@@ -21,7 +21,6 @@ title: ""
 # List of links in the navigation bar
 navbar-links:
   blog:
-    - life: "https://creatorcao.github.io/tags/#life"
     - machine learning: "https://creatorcao.github.io/tags/#machine-learning"
   Aboutme: "https://creatorcao.github.io/"
 
