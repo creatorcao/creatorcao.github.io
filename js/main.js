@@ -1,4 +1,3 @@
-// Dean Attali / Beautiful Jekyll 2016
 
 var main = {
 
