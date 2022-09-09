@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Untitled
+title: '2022-09-09-distributed-data-parallel '
 subtitle: DistributedDataParallel in Pytorch
 date: '2022-09-09'
 tags: machine-learning
