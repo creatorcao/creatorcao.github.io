@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: '2022-09-09-distributed-data-parallel'
+title: 2022-09-09-distributed-data-parallel
 subtitle: DistributedDataParallel in Pytorch
 date: '2022-09-09'
 tags: machine-learning
@@ -43,8 +43,3 @@ I run the same scripts on Google Colab (1 GPU node, 1 graphic card, white) and a
     <img src="https://user-images.githubusercontent.com/54368185/189344688-243472e2-a16c-4925-b517-9310ba36fa29.png" 
          width="340" />
 </p>
-  
-
-
-
-
