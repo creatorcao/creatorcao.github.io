@@ -6,10 +6,12 @@ subtitle: DistributedDataParallel in Pytorch
 date: '2022-09-09'
 tag: machine-learning
 ---
-
+&nbsp;<br>
 I run the same scripts on Google Colab (1 GPU node, 1 graphic card, white) and a computer cluster (1 GPU node, 4 graphic cards, black) to compare the training speed.
+&nbsp;<br>
 
-**1. regular run **
+**1. regular run**
+
 `!python mnist.py -n 1 -g 1 -nr 0` # node 1, 1 gpu, node_rank 0
 
 <p align="left">
@@ -24,7 +26,9 @@ I run the same scripts on Google Colab (1 GPU node, 1 graphic card, white) and a
 </p>
 
 &nbsp;<br>
+
 **2. distributed run**
+
 `!python mnist-distributed.py.1 -n 1 -g 1 -nr 0` # 1 node, 1 gpu, node_rank 0
 
 <p align="left">
@@ -40,6 +44,7 @@ I run the same scripts on Google Colab (1 GPU node, 1 graphic card, white) and a
   
 &nbsp;<br>
 **3. mixed-precision run**
+
 `!python mnist-mixed.py -n 1 -g 1 -nr 0` # 1 node, 1 gpu, node_rank 0
 
 <p align="left">
