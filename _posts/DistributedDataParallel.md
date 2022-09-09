@@ -10,3 +10,7 @@ DistributedDataParallel in Pytorch
 
 3. `!python mnist-mixed.py -n 1 -g 1 -nr 0`
 <img width="365" alt="Screen Shot 2022-09-08 at 22 50 55" src="https://user-images.githubusercontent.com/54368185/189223426-2b78a6fc-b85d-4dce-a52d-0b0564faeeae.png">
+
+
+
+transfer the code with your own data
