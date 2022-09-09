@@ -6,9 +6,9 @@ subtitle: DistributedDataParallel in Pytorch
 date: '2022-09-09'
 tag: machine-learning
 ---
-&nbsp;<br>
-&nbsp;<br>
 
+&nbsp;<br>
+&nbsp;<br>
 I run the same scripts on Google Colab (1 GPU node, 1 graphic card, white) and a computer cluster (1 GPU node, 4 graphic cards, black) to compare the training speed.
 
 
@@ -20,7 +20,8 @@ I run the same scripts on Google Colab (1 GPU node, 1 graphic card, white) and a
 <p align="left">
     <img src="https://user-images.githubusercontent.com/54368185/189223116-6a2b9e1d-9ba7-4ece-89bc-0328208813ec.png" 
          width="385" />
-    
+</p>
+
 ```
 python mnist.py -n 1 -g 1 -nr 0  # 1 node, 1 gpu, node_rank 0  
 ```
@@ -40,7 +41,7 @@ python mnist.py -n 1 -g 1 -nr 0  # 1 node, 1 gpu, node_rank 0
 <p align="left">
     <img src="https://user-images.githubusercontent.com/54368185/189223224-87184b40-2877-4ffd-864f-cf829903b01a.png" 
          width="385" />
-    </p>
+</p>
 
 ```
 python mnist-distributed.py.1 -n 1 -g 4 -nr 0  # 1 node, 4-gpu, node_rank 0
