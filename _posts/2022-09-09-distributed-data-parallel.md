@@ -6,9 +6,10 @@ subtitle: DistributedDataParallel in Pytorch
 date: '2022-09-09'
 tag: machine-learning
 ---
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
 
-&nbsp;<br>
-&nbsp;<br>
 I run the same scripts on Google Colab (1 GPU node, 1 graphic card, white) and a computer cluster (1 GPU node, 4 graphic cards, black) to compare the training speed.
 
 
@@ -53,6 +54,7 @@ python mnist-distributed.py.1 -n 1 -g 4 -nr 0  # 1 node, 4-gpu, node_rank 0
 </p>
   
 &nbsp;<br>
+
 **3. mixed-precision run**
 
 ```
@@ -74,15 +76,12 @@ python mnist-mixed.py -n 1 -g 4 -nr 0  # 1 node, 4-gpu, node_rank 0
 </p>
 
 
-
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
 
 **Read More**
-
 1. [Training script on mnist data](https://github.com/yangkky/distributed_tutorial/blob/master/src/mnist-distributed.py)
-
 2. [Training script on cifar10 data](https://github.com/Taited/DistributedTutorial/blob/master/cifar10_ddp.py)
     
 &nbsp;<br>
