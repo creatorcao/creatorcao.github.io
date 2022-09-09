@@ -22,7 +22,7 @@ I run the same scripts on Google Colab (1 GPU node, 1 graphic card, white) and a
          width="385" />
     
 ```
-python mnist.py -n 1 -g 1 -nr 0  # 1 node, 1 gpu, node_rank 0
+python mnist.py -n 1 -g 1 -nr 0  # 1 node, 1 gpu, node_rank 0  
 ```
 <p align="left">
     <img src="https://user-images.githubusercontent.com/54368185/189344945-85f72dd4-8b24-4916-918e-ecfe9a995111.png" 
@@ -45,6 +45,7 @@ python mnist.py -n 1 -g 1 -nr 0  # 1 node, 1 gpu, node_rank 0
 ```
 python mnist-distributed.py.1 -n 1 -g 4 -nr 0  # 1 node, 4-gpu, node_rank 0
 ```
+
 <p align="left">
     <img src="https://user-images.githubusercontent.com/54368185/189344688-243472e2-a16c-4925-b517-9310ba36fa29.png" 
          width="340" />
@@ -78,7 +79,9 @@ python mnist-mixed.py -n 1 -g 4 -nr 0  # 1 node, 4-gpu, node_rank 0
 &nbsp;<br>
 
 **Read More**
+
 1. [Training script on mnist data](https://github.com/yangkky/distributed_tutorial/blob/master/src/mnist-distributed.py)
+
 2. [Training script on cifar10 data](https://github.com/Taited/DistributedTutorial/blob/master/cifar10_ddp.py)
     
 &nbsp;<br>
