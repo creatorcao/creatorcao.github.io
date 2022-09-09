@@ -8,6 +8,9 @@ tags: machine-learning
 tag: machine-learning
 ---
 
+&nbsp;<br>
+&nbsp;<br>
+
 I run the same scripts on Google Colab (1 GPU node, 1 graphic card, white) and a computer cluster (1 GPU node, 4 graphic cards, black) to compare the training speed.
 
 
@@ -44,3 +47,21 @@ I run the same scripts on Google Colab (1 GPU node, 1 graphic card, white) and a
     <img src="https://user-images.githubusercontent.com/54368185/189344688-243472e2-a16c-4925-b517-9310ba36fa29.png" 
          width="340" />
 </p>
+
+    
+    
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+
+**Read More**
+1. [Training script on mnist data](https://github.com/yangkky/distributed_tutorial/blob/master/src/mnist-distributed.py)
+2. [Training script on cifar10 data](https://github.com/Taited/DistributedTutorial/blob/master/cifar10_ddp.py)
+    
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+    
+    
+    
+    
