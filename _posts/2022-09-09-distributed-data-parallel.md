@@ -8,8 +8,6 @@ tag: machine-learning
 ---
 &nbsp;<br>
 &nbsp;<br>
-&nbsp;<br>
-
 I run the same scripts on Google Colab (1 GPU node, 1 graphic card, white) and a computer cluster (1 GPU node, 4 graphic cards, black) to compare the training speed.
 
 
