@@ -5,6 +5,7 @@ title: 2022-09-09-distributed-data-parallel
 subtitle: DistributedDataParallel in Pytorch
 date: '2022-09-09'
 tags: machine-learning
+tag: machine-learning
 ---
 
 I run the same scripts on Google Colab (1 GPU node, 1 graphic card, white) and a computer cluster (1 GPU node, 4 graphic cards, black) to compare the training speed.
