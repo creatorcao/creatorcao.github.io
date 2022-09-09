@@ -1,4 +1,12 @@
-DistributedDataParallel in Pytorch
+---
+layout: post
+published: true
+title: Untitled
+subtitle: DistributedDataParallel in Pytorch
+date: '2022-09-09'
+tags: machine-learning
+---
+
 
 When I get access to the computer cluster, which provides 4 graphic cards by the department. 
 1. `!python mnist.py -n 1 -g 1 -nr 0`
