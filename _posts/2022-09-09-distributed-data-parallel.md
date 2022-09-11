@@ -26,6 +26,7 @@ python mnist.py -n 1 -g 1 -nr 0  # 1 node, 1 gpu, node_rank 0
          width="340" />
 </p>
 
+&nbsp;<br>
 
 **2. distributed run**
 
@@ -47,6 +48,7 @@ python mnist-distributed.py.1 -n 1 -g 4 -nr 0  # 1 node, 4-gpu, node_rank 0
          width="340" />
 </p>
 
+&nbsp;<br>
 
 **3. mixed-precision run**
 
