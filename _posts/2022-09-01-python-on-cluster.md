@@ -61,18 +61,6 @@ then press **ESC**, type `:exit` and press **ENTER**
 &nbsp;<br>
 &nbsp;<br>
 
-#### Run Jupyter Lab
-
-1. On cluster input: `jupyter notebook --no-browser --port=9999`
-
-2. On local Terminal input: `ssh -NfL localhost:9999:localhost:9999 yourusername@hostname`
-
-3. On local browser open: `http://localhost:9999`
-
-
-&nbsp;<br>
-&nbsp;<br>
-
 **Read More**
 
 [Slurm CheatSheet](https://slurm.schedmd.com/pdfs/summary.pdf)
