@@ -63,9 +63,9 @@ then press **ESC**, type `:exit` and press **ENTER**
 
 **Read More**
 
-[Slurm CheatSheet](https://slurm.schedmd.com/pdfs/summary.pdf)
+1. [Slurm CheatSheet](https://slurm.schedmd.com/pdfs/summary.pdf)
 
-[Use SFTP transfer files with a remote server](https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server)
+2. [Use SFTP transfer files with a remote server](https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server)
 
 &nbsp;<br>
 &nbsp;<br>
