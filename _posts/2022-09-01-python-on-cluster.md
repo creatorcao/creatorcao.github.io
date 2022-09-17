@@ -25,7 +25,7 @@ subtitle: Deep learning setup on high performance computing (HPC) systems
 
 `conda create -n cp` # create a new environment called cp
 
-`pip install matplotlib` # install packages
+`conda install matplotlib` # install packages
 
 **5. Transfer data**
 
