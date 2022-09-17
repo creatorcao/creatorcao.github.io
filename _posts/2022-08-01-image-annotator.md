@@ -16,7 +16,7 @@ subtitle: COCO Annotator vs LabelMe
 
 **[COCO Annotator](https://github.com/jsbroks/coco-annotator)** is in **[COCO](https://cocodataset.org/#home)** format, which can be used directly for training and validation for object detection tasks. It is safe, flexible and with multi-colored masks.
 
-Following is the trouble-shooting for installing it on **Macbook M1**. After these steps, you can register an account by opening `http://localhost:5000` in your browser.
+Below is the trouble-shooting for installing it on **Macbook M1**. After these steps, you can register an account by opening `http://localhost:5000` in your browser.
 
 1. `brew install docker` or `docker -v`
    ```
