@@ -48,11 +48,11 @@ Cons
 Pros
 - fast 
 - multiple state-of-the-art object detection models
-- also includes scripts for model conversion, benchmarking, hyper-parameter optimization
+- includes scripts for model conversion, benchmarking, hyper-parameter optimization
 
 Cons
 - restricted to some object detection and instance segmentation models  
-- not support image classification
+- not supportive for image classification
 
 &nbsp;<br>
 &nbsp;<br>
@@ -62,8 +62,8 @@ I choose Detectron2 because of the **[First Impression](https://en.wikipedia.org
 &nbsp;<br>
 
 ### Reference
-1. [https://mmdetection.readthedocs.io/en/latest/model_zoo.html#comparison-with-detectron2](https://mmdetection.readthedocs.io/en/latest/model_zoo.html#comparison-with-detectron2)
-2. [https://www.libhunt.com/compare-mmdetection-vs-detectron2?ref=compare](https://www.libhunt.com/compare-mmdetection-vs-detectron2?ref=compare)
+1. [mmdetection comparison with detectron2](https://mmdetection.readthedocs.io/en/latest/model_zoo.html#comparison-with-detectron2)
+2. [mmdetection vs detectron2 ](https://www.libhunt.com/compare-mmdetection-vs-detectron2?ref=compare)
 
 
 &nbsp;<br>
