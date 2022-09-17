@@ -22,8 +22,6 @@ CNN has inductive biases like translation invariance and locally restricted rece
 3. It lacks a global understanding of the images. It only looks for the presence of the image's features and does not understand the structural dependency between its features.
 4. Computationally expensive: each pixel bears varying importance for the target task, which causes redundancy in both computation and representations.
 
-&nbsp;<br>
-
 <p align="left">
     <img src="https://user-images.githubusercontent.com/54368185/187426824-ebd56540-7f67-44bc-b207-aedd6544a521.gif" 
          width="600px" />
