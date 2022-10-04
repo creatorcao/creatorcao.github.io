@@ -78,7 +78,8 @@ python mnist-mixed.py -n 1 -g 4 -nr 0  # 1 node, 4-gpu, node_rank 0
 **Read More**
 1. [Training script on mnist data](https://github.com/yangkky/distributed_tutorial/blob/master/src/mnist-distributed.py)
 2. [Training script on cifar10 data](https://github.com/Taited/DistributedTutorial/blob/master/cifar10_ddp.py)
-    
+3. [Distributed data parallel training in Pytorch](https://yangkky.github.io/2019/07/08/distributed-pytorch-tutorial.html)
+
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
