@@ -23,7 +23,7 @@ navbar-links:
   blog:
     - machine learning: "https://creatorcao.github.io/tags/#machine-learning"
     - computer vision: "https://creatorcao.github.io/tags/#computer-vision"
-  Aboutme: _assets/aboutme.md
+  Aboutme: "_assets/aboutme.md"
   Publications: "https://orcid.org/0000-0002-3049-7084"
 
 
