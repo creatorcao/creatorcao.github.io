@@ -82,18 +82,18 @@ social-network-links:
 # rss: false
 # email: "cao_ping@foxmail.com"
 # facebook: 
-# github: creatorcao
+github: creatorcao
 #  twitter: creatorcao
 #  stackoverflow: " "
-#  instagram: deanat78
+instagram: https://www.instagram.com/ping__cao
 #  youtube: user/deanat78
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
+  twitter: https://twitter.com/pingcao_
   facebook: false
   google: false
-  linkedin: false
+  linkedin: https://www.linkedin.com/in/ping-cao/
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
