@@ -767,9 +767,23 @@ td.gutter {
 /* Tags page */
 
 .tag-btn {
+  display: inline-block; /* Ensures proper display */
   margin: 5px;
+  padding: 0.5em 1em; /* Adds internal space around the text */
+  background-color: #007bff; /* Example primary color: blue */
+  color: white; /* Text color */
+  border-radius: 20px; /* Rounded corners */
+  text-decoration: none; /* Removes underline from links */
+  font-size: 0.85em; /* Adjust based on preference */
+  transition: background-color 0.3s, transform 0.3s; /* Smooth transition for hover effects */
 }
 
+.tag-btn:hover {
+  background-color: #0056b3; /* Darker shade of blue on hover */
+  transform: scale(1.05); /* Slightly enlarges the button on hover for feedback */
+}
+
+/* Maintains existing styles for tag list and entries */
 #full-tags-list {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -779,11 +793,12 @@ td.gutter {
 }
 
 #full-tags-list .tag-entry a {
-  font-size: 20px;
+  font-size: 20px; /* Preserves the font size for tag entries */
 }
 
 #full-tags-list .tag-entry .entry-date {
-  color: #808080;
+  color: #808080; /* Gray color for date */
   font-style: italic;
-  font-size: 16px;
+  font-size: 16px; /* Slightly smaller font size for dates */
 }
+
