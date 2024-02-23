@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: 'Training Time '
 date: '2022-08-30'
 tag: machine-learning
