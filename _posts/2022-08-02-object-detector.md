@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Object Detector
 date: '2022-08-02'
 tags: machine-learning
