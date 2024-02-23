@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Run Python on computer cluster
 date: '2022-09-01'
 tags: machine-learning
