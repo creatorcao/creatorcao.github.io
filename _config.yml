@@ -20,10 +20,9 @@ title: "Ping Cao"
 
 # List of links in the navigation bar
 navbar-links:
-  # blog:
-  #   - machine learning: "https://creatorcao.github.io/tags/#machine-learning"
-  # Publications: "https://orcid.org/0000-0002-3049-7084"
-  Aboutme: https://www.zamanilab.org/ping-cao
+  Blog: "https://creatorcao.github.io/tags/#machine-learning"
+  Publications: "https://orcid.org/0000-0002-3049-7084"
+  Aboutme: "https://www.zamanilab.org/ping-cao"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
