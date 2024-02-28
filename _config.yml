@@ -14,7 +14,7 @@ baseurl: ""
 title: "Ping Cao"
 
 # Short description of your site
-# description: ""
+description: "Hi, welcome to my space."
 
 # --- Navigation bar options --- #
 
@@ -27,7 +27,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/images/fox.jpeg"
+avatar: "https://github.com/creatorcao/creatorcao.github.io/assets/54368185/c5001fea-1565-4b1b-9251-cf7ec60f82b0"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
