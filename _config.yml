@@ -247,4 +247,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-theme: minima
+theme: jekyll-theme-cayman
