@@ -11,20 +11,20 @@ baseurl: ""
 #baseurl: "/projectname"
 
 # Name of website
-title: "Ping Cao"
+# title: "Ping Cao"
 
 # Short description of your site
-description: "Hi, welcome to my space."
+# description: "Hi, welcome to my space."
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+locale: "en-US"
+title: "creatorcao"
+title_separator: "-"
+name: &name "Ping Cao"
+description: &description "During my internship as a medical student, the Dept. of Ob & Gyn was my first practice site where I gained most of the clinical experience. I still can remember the shock on the first sight of childbirth. What could be more sacred than to save the sick from suffering and to welcome a new life? It was also with this passion and interest that enabled me to choose Ob & Gyn in my postgraduate study. I received the supervision from the “IVF father” - Prof. Guanglun Zhuang and Prof. Yanwen Xu, who created the first PGT baby in China. I got the academic training regarding human reproduction and infertility treatment both theoretically and practically in the IVF center. My research background was reproductive genetics, exploring the role of gene polymorphism in controlled ovarian stimulation and embryo development. I realize that artificial intelligence would be the future for individualized treatment and embryo selection is still under much limitation and challenges. So I started excitingly to dive into deep learning like image recognition and computer vision, my aim is to train myself as a machine learning expert to push forward the application of artificial intelligence in ART. My PhD project is “Development of machine learning methods to study embryo morphokinetics and embryo implantation capacity”. I am grateful, motivated and inspired to work in Masoud’s brilliant young group."
+url: https://creatorcao.github.io/  
+baseurl: "" # the subpath of your site, e.g. "/blog"
+repository: "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
