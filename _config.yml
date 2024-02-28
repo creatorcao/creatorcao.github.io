@@ -23,59 +23,6 @@ title_separator: "-"
 name: &name "Ping Cao"
 description: "During my internship as a medical student, the Dept. of Ob & Gyn was my first practice site where I gained most of the clinical experience. I still can remember the shock on the first sight of childbirth. What could be more sacred than to save the sick from suffering and to welcome a new life? It was also with this passion and interest that enabled me to choose Ob & Gyn in my postgraduate study. I received the supervision from the “IVF father” - Prof. Guanglun Zhuang and Prof. Yanwen Xu, who created the first PGT baby in China. I got the academic training regarding human reproduction and infertility treatment both theoretically and practically in the IVF center. My research background was reproductive genetics, exploring the role of gene polymorphism in controlled ovarian stimulation and embryo development. I realize that artificial intelligence would be the future for individualized treatment and embryo selection is still under much limitation and challenges. So I started excitingly to dive into deep learning like image recognition and computer vision, my aim is to train myself as a machine learning expert to push forward the application of artificial intelligence in ART. My PhD project is “Development of machine learning methods to study embryo morphokinetics and embryo implantation capacity”. I am grateful, motivated and inspired to work in Masoud’s brilliant young group."
 url: https://creatorcao.github.io/  
-author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
-
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # URL
-
 
 # --- Navigation bar options --- #
 
@@ -300,7 +247,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
-
-theme: PaperMod
+theme: minima
