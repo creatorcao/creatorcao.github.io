@@ -215,7 +215,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-theme: minima
+theme: PaperMod
 kramdown:
   input: GFM
 
