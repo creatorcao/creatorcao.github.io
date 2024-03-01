@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Image Annotator'
 date: '2022-08-01'
 tags: machine-learning
