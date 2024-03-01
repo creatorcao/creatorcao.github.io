@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Image Transformer
 date: '2022-08-09'
 tags: machine-learning
