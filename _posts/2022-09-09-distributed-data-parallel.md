@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Distributed Data Parallel
 subtitle: DistributedDataParallel in Pytorch
 date: '2022-09-09'
