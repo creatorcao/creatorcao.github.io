@@ -14,7 +14,7 @@ url: "https://creatorcao.github.io/"
 # title: "Ping Cao"
 
 # Short description of your site
-# description: "Hi, welcome to my space."
+description: "Hi, welcome to my space!"
 
 # Basic Site Settings
 locale: "en-US"
@@ -28,7 +28,7 @@ url: https://creatorcao.github.io/
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "https://creatorcao.github.io"
+  Blog: 
     - machine-learning: "https://creatorcao.github.io/tags/#machine-learning"
   Publications: "https://orcid.org/0000-0002-3049-7084"
   Aboutme: "https://www.zamanilab.org/ping-cao"
